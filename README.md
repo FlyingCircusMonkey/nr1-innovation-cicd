@@ -23,7 +23,7 @@ npm -v
 3. Clone this repository and run the code locally against your New Relic data by running the following command:
 
 ```bash
-nr1 nerdpack:clone -r https://github.com/newrelic/nr1-nerdpack-layout-standard.git
+nr1 nerdpack:clone -r https://github.com/newrelic-experimental/nr1-innovation-cicd.git
 cd nr1-innovation-cicd
 nr1 nerdpack:serve
 ```
